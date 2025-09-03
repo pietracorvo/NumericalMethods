@@ -3,7 +3,6 @@
 In diesem Repository befinden sich sämtliche Übungsbeispiele die ich im Rahmen meines Physikstudiums (TU Wien) im Kurs 'Numerische Methoden für Technische Physiker 2' erstellt habe.
 
 In jedem Übungsordner befindet sich die zu lösende Aufgabenstellung (als pdf), ein FORTRAN95 Skript das die Aufgabenstellung löst, sowie weitere Hilffskripte zum Plotten mit GnuPlot, notwendige Daten, usw.
-Sämtlicher Code der hier zugägnlich ist, wurde von mir selbst geschrieben. (In UE7 befinden sich Daten von NMR Bildern die mit Erlaubnis von Prof. Karsten Held (TU Wien) bereitgestellt wurden, ich möchte ihm dafür nochmals persöhnlich danken.)
 
 Die numerischen Aufgabenstellungen der einzelnen Übungsbeispiele stellen klassische Probleme der Physik dar:
 - UE1:
